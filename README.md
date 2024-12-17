@@ -10,3 +10,12 @@ The analysis covers:
 + staffing and equipment utilisation patterns
 + service delay patterns and external influencing factors
 + operational bottlenecks and improvement oppurtunities
+
+  **Methodology**
++ **Data collection** gathering logs, equipment status, and service records.
++ **Analysis** Identifying delay trends and correlating with operational factors.
++ **Root cause Analysis:** Diagnosing delay contributions
++ ***Solution proposal:** Reccommeding solution, such as process optimisation and resource allocation.
+
+  **Data Source**
+  The data set was provided by the clientas a CSV 
